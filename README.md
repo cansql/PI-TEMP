@@ -9,7 +9,7 @@ It displays the current temperature and warns the user if it exceeds a safe thre
 ## 📁 Files
 
 - `temperature.sh`: The main script that shows the current temperature and prints a warning if it's too high.
-- Colors are sourced from a separate file hosted at: `https://cdn.elewon.net/beacol/color.sh`
+- Colors are sourced from a separate file hosted at: `https://cansahin.tr/beacol/color.sh`
 
 ---
 
@@ -40,7 +40,7 @@ Beware of high temperatures!
 
 1. **Download the script:**
    ```bash
-   curl -o temperature.sh https://raw.githubusercontent.com/cansahinv/PI-TEMP/refs/heads/main/temperature.sh
+   curl -o temperature.sh https://cansahin.tr/pi-temp/temperature.sh
    ```
 
 2. **Make it executable:**
