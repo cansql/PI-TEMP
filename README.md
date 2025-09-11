@@ -40,7 +40,7 @@ Beware of high temperatures!
 
 1. **Download the script:**
    ```bash
-   curl -o temperature.sh https://nebliy.com/uploads/short-url/fsQ3J7eXDYvbmG3mWN7zCAMfHPc.sh
+   curl -o temperature.sh https://nebliy.com/uploads/short-url/5hGN6yFrE645NZmDbXZD2sTWuDp.sh
    ```
 
 2. **Make it executable:**
