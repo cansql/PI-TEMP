@@ -9,7 +9,7 @@ It displays the current temperature and warns the user if it exceeds a safe thre
 ## 📁 Files
 
 - `temperature.sh`: The main script that shows the current temperature and prints a warning if it's too high.
-- Colors are sourced from a separate file hosted at: `https://nebliy.com/uploads/short-url/plvorjtj0myNL7ZeEUrvO3rsv36.sh`
+- Colors are sourced from a separate file hosted at: `https://gsi.nebliy.com/beacol/color.sh`
 
 ---
 
@@ -40,7 +40,7 @@ Beware of high temperatures!
 
 1. **Download the script:**
    ```bash
-   curl -o temperature.sh https://nebliy.com/uploads/short-url/5hGN6yFrE645NZmDbXZD2sTWuDp.sh
+   curl -o temperature.sh https://cdn.nebliy.com/pi-temp/pi-temp.sh
    ```
 
 2. **Make it executable:**
