@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Pull colour file
-source <(curl -sSL https://gsi.nebliy.com/beacol/color.sh)
+source <(curl -sSL https://static.cansahin.tr/beacol/color.sh)
 
 # Get temperature from vcgencmd output → e.g. temp=52.3'C
 TEMP_RAW=$(vcgencmd measure_temp)
